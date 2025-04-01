@@ -29,5 +29,8 @@ This medical machine learning project predicts brain tumor types using structure
 ## 📈 Results
 Final model successfully classified tumor types with high accuracy. Feature selection improved model interpretability and performance.
 
+## 👏 Author
+**Reza** — Full ML pipeline implemented from scratch.
+
 ## 📎 Credits
 Academic research project under Bishop’s University.
